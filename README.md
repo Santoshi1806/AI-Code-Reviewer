@@ -20,5 +20,5 @@
 
 🔗 Live Demo:https:https://forty-lemons-fix.loca.lt/
 
-📂 GitHub Repository:https://github.com/Santoshi1806/Santoshi-Madrage
+📂 GitHub Repository:https:https://github.com/Santoshi1806/AI-Code-Reviewer.git
 
