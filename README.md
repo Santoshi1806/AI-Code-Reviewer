@@ -26,6 +26,7 @@ Run the following command to install the required packages:
 
 [ ]
 pip install -r requirements.txt
+
 🚀 Usage
 
 1.📥 Clone the repository or copy the script to your local machine.
@@ -35,6 +36,7 @@ pip install -r requirements.txt
 
 [ ]
 python -m streamlit run app.py
+
 3.✍️ Enter your Python code in the text area and click the Review button.
 
 4.✅ The AI will analyze the code and provide:
@@ -48,6 +50,7 @@ Replace your Google Gemini API key in the script:
 
 [ ]
 ai.configure(api_key = "YOUR_API_KEY")
+
 📁 Project Structure
 
 [ ]
