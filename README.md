@@ -15,6 +15,7 @@
 📚 Explanations: Offers clear explanations for detected errors and suggested fixes.
 
 ⚙️ Installation
+
 🔹 Prerequisites
 
 Ensure you have Python 3.7+ installed on your system.
