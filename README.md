@@ -42,9 +42,13 @@ python -m streamlit run app.py
 4.✅ The AI will analyze the code and provide:
 
 🔎 Bug Report
+
 🛠 Fixed Code
+
 📖 Explanations
+
 🔧 Configuration
+
 Replace your Google Gemini API key in the script:
 
 
